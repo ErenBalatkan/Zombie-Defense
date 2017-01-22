@@ -12,3 +12,7 @@ serious project. However i still think that i did quite good job given my lack o
 #### G = Weapon Buy Menu
 
 # Unzip Graphics in Resources folder before running the code
+
+Credits =
+Eren Balatkan = e.balatkan@gmail.com
+Melih Arıcı = https://github.com/meliharici
