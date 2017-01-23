@@ -10,6 +10,7 @@ serious project. However i still think that i did quite good job given my lack o
 #### Mouse Right Click = Fire
 #### B = Buy Barricade (Must be standing inside barricade)
 #### G = Weapon Buy Menu
+#### 1,2,3 = Switch weapons
 
 # Unzip Graphics in Resources folder before running the code
 
